@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+							<!DOCTYPE html>
 <html class='no-js' >
 	
 	<head>
@@ -109,7 +109,7 @@
 							</li>
 							
 							<li>
-								<a href='#' data-section='portfolio' >My Work</a>
+								<a href='https://www.playbook.com/s/christian-feria/my-portfolio' data-section='portfolio' >My Work</a>
 							</li>
 
 							<li>
